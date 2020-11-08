@@ -5,3 +5,4 @@ df=pd.read_csv('titanic.csv')
 
 
 print(400)
+print(500)
